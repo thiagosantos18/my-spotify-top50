@@ -113,34 +113,6 @@
     "uri" : "spotify:artist:4Rxn7Im3LGfyRkY2FlHhWi"
   }, {
     "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 4636780
-    },
-    "genres" : [ "dance pop", "hip pop", "pop", "post-teen pop", "r&b" ],
-    "href" : "https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz",
-    "id" : "6JL8zeS1NmiOftqZTRgdTz",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/9f6aaddd4333cced8feea20d8c5c107eccf2020c",
-      "width" : 640
-    }, {
-      "height" : 320,
-      "url" : "https://i.scdn.co/image/48a275caafdcb57a0ce7bbfc4fa98dde9237f616",
-      "width" : 320
-    }, {
-      "height" : 160,
-      "url" : "https://i.scdn.co/image/b3227151c4af85e11e0886b9eeba0f6112ea2b2d",
-      "width" : 160
-    } ],
-    "name" : "Meghan Trainor",
-    "popularity" : 80,
-    "type" : "artist",
-    "uri" : "spotify:artist:6JL8zeS1NmiOftqZTRgdTz"
-  }, {
-    "external_urls" : {
       "spotify" : "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
     },
     "followers" : {
@@ -251,34 +223,6 @@
     "popularity" : 78,
     "type" : "artist",
     "uri" : "spotify:artist:6T5tfhQCknKG4UnH90qGnz"
-  }, {
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 2045182
-    },
-    "genres" : [ "dance pop", "edm", "pop", "post-teen pop", "swedish pop", "tropical house" ],
-    "href" : "https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg",
-    "id" : "1Xylc3o4UrD53lo9CvFvVg",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/3961cce791cb4581985543841952fb9e2242b81b",
-      "width" : 640
-    }, {
-      "height" : 320,
-      "url" : "https://i.scdn.co/image/1acee60eeebd5752903136aeda6f344f6fc7f58e",
-      "width" : 320
-    }, {
-      "height" : 160,
-      "url" : "https://i.scdn.co/image/41ff5aff39977e0bfb5ab442e4522b93e1e7dd1f",
-      "width" : 160
-    } ],
-    "name" : "Zara Larsson",
-    "popularity" : 82,
-    "type" : "artist",
-    "uri" : "spotify:artist:1Xylc3o4UrD53lo9CvFvVg"
   }, {
     "external_urls" : {
       "spotify" : "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"

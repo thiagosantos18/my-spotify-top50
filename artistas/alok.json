@@ -113,62 +113,6 @@
     "uri" : "spotify:artist:3Nipsl6GVwwGyeAk0J29C6"
   }, {
     "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 2803180
-    },
-    "genres" : [ "brazilian electronica", "deep funk carioca" ],
-    "href" : "https://api.spotify.com/v1/artists/7me0S5Z40qVWj3gzyK8aC3",
-    "id" : "7me0S5Z40qVWj3gzyK8aC3",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/3f0c1ef0f3b9f9416b65a4f7cbf44047d2c71912",
-      "width" : 640
-    }, {
-      "height" : 320,
-      "url" : "https://i.scdn.co/image/988895df8ffcc0d70593f07561ec8ffa2d08f9a4",
-      "width" : 320
-    }, {
-      "height" : 160,
-      "url" : "https://i.scdn.co/image/095a709072c1c98aed3c11e64262e86b74435be3",
-      "width" : 160
-    } ],
-    "name" : "Mc Livinho",
-    "popularity" : 75,
-    "type" : "artist",
-    "uri" : "spotify:artist:7me0S5Z40qVWj3gzyK8aC3"
-  }, {
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 1316711
-    },
-    "genres" : [ "brazilian electronica", "deep funk carioca" ],
-    "href" : "https://api.spotify.com/v1/artists/2ZXnTEyYopSLCDiz5Z0XIf",
-    "id" : "2ZXnTEyYopSLCDiz5Z0XIf",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/7ddedc7ba20ed99a0a32c8541d62235b2e209210",
-      "width" : 640
-    }, {
-      "height" : 320,
-      "url" : "https://i.scdn.co/image/0638aafd6124f1e662305a7135cd60afe32dfd23",
-      "width" : 320
-    }, {
-      "height" : 160,
-      "url" : "https://i.scdn.co/image/e32fd61b97bdbde768244eeecfa33c193b9b4589",
-      "width" : 160
-    } ],
-    "name" : "MC Kekel",
-    "popularity" : 67,
-    "type" : "artist",
-    "uri" : "spotify:artist:2ZXnTEyYopSLCDiz5Z0XIf"
-  }, {
-    "external_urls" : {
       "spotify" : "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
     },
     "followers" : {
@@ -225,62 +169,6 @@
     "uri" : "spotify:artist:1B0Rp4SWGnFgGCPU5Pju6E"
   }, {
     "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 1220270
-    },
-    "genres" : [ "brazilian electronica", "deep funk carioca" ],
-    "href" : "https://api.spotify.com/v1/artists/7Lmrb6KcIzfkmgbtokjsAL",
-    "id" : "7Lmrb6KcIzfkmgbtokjsAL",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/642f7bab75d22dbe41db6fe8d9269032490a6dcf",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/9c2a2aeb58881a9e8a0d675006e5eacddc3c6d90",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/44b5bc4a1f8b15b8ab9f56889c476e7b1420ea04",
-      "width" : 64
-    } ],
-    "name" : "Mc Don Juan",
-    "popularity" : 73,
-    "type" : "artist",
-    "uri" : "spotify:artist:7Lmrb6KcIzfkmgbtokjsAL"
-  }, {
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 1084626
-    },
-    "genres" : [ "baile pop", "brazilian electronica", "deep funk carioca" ],
-    "href" : "https://api.spotify.com/v1/artists/14D0I0RYqvIorkPL2EWoQh",
-    "id" : "14D0I0RYqvIorkPL2EWoQh",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/5b16de2601aebb8f39d553abe8c0682dc3dcc492",
-      "width" : 640
-    }, {
-      "height" : 320,
-      "url" : "https://i.scdn.co/image/6f6fa2dc2d43255b8937cc64de0e5570d51768ad",
-      "width" : 320
-    }, {
-      "height" : 160,
-      "url" : "https://i.scdn.co/image/fd5e5ebeb8593a04a54de90456c56ea3e2b338b8",
-      "width" : 160
-    } ],
-    "name" : "MC WM",
-    "popularity" : 71,
-    "type" : "artist",
-    "uri" : "spotify:artist:14D0I0RYqvIorkPL2EWoQh"
-  }, {
-    "external_urls" : {
       "spotify" : "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
     },
     "followers" : {
@@ -307,34 +195,6 @@
     "popularity" : 70,
     "type" : "artist",
     "uri" : "spotify:artist:7bNqXqIrIfwJnipx7oGeU4"
-  }, {
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 573813
-    },
-    "genres" : [ "baile pop", "brazilian electronica", "deep funk carioca" ],
-    "href" : "https://api.spotify.com/v1/artists/4mb1xtQVGSK5dh8AbtwBiR",
-    "id" : "4mb1xtQVGSK5dh8AbtwBiR",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/c45e77bca9f33c415ab257146c31e38cea74c106",
-      "width" : 640
-    }, {
-      "height" : 320,
-      "url" : "https://i.scdn.co/image/3f809ba960f2e4e4213ec12b080e4296ad9ffc89",
-      "width" : 320
-    }, {
-      "height" : 160,
-      "url" : "https://i.scdn.co/image/1df1cb3793e1a5c5f49fc980ce1c45bc7db2c257",
-      "width" : 160
-    } ],
-    "name" : "MC Lan",
-    "popularity" : 68,
-    "type" : "artist",
-    "uri" : "spotify:artist:4mb1xtQVGSK5dh8AbtwBiR"
   }, {
     "external_urls" : {
       "spotify" : "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
@@ -391,34 +251,6 @@
     "popularity" : 49,
     "type" : "artist",
     "uri" : "spotify:artist:5M5NrRoOEBa49sW1hzKkuH"
-  }, {
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 3769054
-    },
-    "genres" : [ "deep funk carioca" ],
-    "href" : "https://api.spotify.com/v1/artists/1mXAhKnZEdF6rotyyd4GBi",
-    "id" : "1mXAhKnZEdF6rotyyd4GBi",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/bfab44377a30a8200d0cc3addd8de72ee7cc7076",
-      "width" : 640
-    }, {
-      "height" : 320,
-      "url" : "https://i.scdn.co/image/d6aaf60949263aaa8db280678f70d49ec31f76f8",
-      "width" : 320
-    }, {
-      "height" : 160,
-      "url" : "https://i.scdn.co/image/5b8e25a0f3727144d41658a700b7e04eabcaf62c",
-      "width" : 160
-    } ],
-    "name" : "MC Kevinho",
-    "popularity" : 81,
-    "type" : "artist",
-    "uri" : "spotify:artist:1mXAhKnZEdF6rotyyd4GBi"
   }, {
     "external_urls" : {
       "spotify" : "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
@@ -531,61 +363,5 @@
     "popularity" : 43,
     "type" : "artist",
     "uri" : "spotify:artist:6S5a5SmgA86Twm25w2Qohf"
-  }, {
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 1411621
-    },
-    "genres" : [ "baile pop" ],
-    "href" : "https://api.spotify.com/v1/artists/6tzRZ39aZlNqlUzQlkuhDV",
-    "id" : "6tzRZ39aZlNqlUzQlkuhDV",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/d1e807d602faa0a43eacfe657d6d0adab7925f62",
-      "width" : 640
-    }, {
-      "height" : 320,
-      "url" : "https://i.scdn.co/image/7ce4ccd4f70a2761d51fcc2a6899c5458af6c2a4",
-      "width" : 320
-    }, {
-      "height" : 160,
-      "url" : "https://i.scdn.co/image/0c3c284a4a57801c1aa0e68cfefc73afaa22e547",
-      "width" : 160
-    } ],
-    "name" : "Pabllo Vittar",
-    "popularity" : 74,
-    "type" : "artist",
-    "uri" : "spotify:artist:6tzRZ39aZlNqlUzQlkuhDV"
-  }, {
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS"
-    },
-    "followers" : {
-      "href" : null,
-      "total" : 282968
-    },
-    "genres" : [ "baile pop", "brazilian electronica", "deep funk carioca" ],
-    "href" : "https://api.spotify.com/v1/artists/2Q4r4Epfaaho06ONTHx7OS",
-    "id" : "2Q4r4Epfaaho06ONTHx7OS",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/07366ca507b364a1afef1f26c131a4f7cd3cf1c6",
-      "width" : 640
-    }, {
-      "height" : 320,
-      "url" : "https://i.scdn.co/image/51716bb58b92db7ab82fcaa38f989ac062e1e11f",
-      "width" : 320
-    }, {
-      "height" : 160,
-      "url" : "https://i.scdn.co/image/6ff19edfa5d69e450185401cda67c151ef4f686b",
-      "width" : 160
-    } ],
-    "name" : "MC Jhowzinho e MC Kadinho",
-    "popularity" : 71,
-    "type" : "artist",
-    "uri" : "spotify:artist:2Q4r4Epfaaho06ONTHx7OS"
-  } ]
+  }]
 }
