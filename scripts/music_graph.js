@@ -28,8 +28,80 @@ const legend = d3.legendColor()
     .classPrefix('legend');
 
 
-d3.json('top50.json', function (error, graph) {
-    if (error) throw error;
+    d3.queue()
+    .defer(d3.json, "artistas/ed_sheeran.json")
+    .defer(d3.json, "artistas/coldplay.json")
+    .defer(d3.json, "artistas/charlie_puth.json")
+    .defer(d3.json, "artistas/alok.json")
+    .defer(d3.json, "artistas/metallica.json")
+    .await(function(error, sheeran, coldplay, charlie, alok, metallica){
+      if (error) throw error;
+
+
+    sheeran = sheeran.artists.filter((k,i) => i < 10);
+    coldplay = coldplay.artists.filter((k,i) => i < 10);
+    charlie = charlie.artists.filter((k,i) => i < 10);
+    alok = alok.artists.filter((k,i) => i < 10);
+    metallica = metallica.artists.filter((k,i) => i < 10);
+
+
+    var nodes = sheeran.concat(coldplay, charlie, alok, metallica);
+
+
+    var graph = {};
+    graph.nodes = nodes.reduce((a,e) => {
+      a.push({
+        id: e.id,
+        name: e.name,
+        genres: e.genres,
+        img: e.images[0].url,
+        url: e.external_urls.spotify
+      });
+      return a;
+    }, []);
+
+    var princ = 0, cont = 0;
+    graph.edges = graph.nodes.filter((k,i) => i != 0 && i != 10 && i != 20 && i != 30 && i != 40).reduce((a, e, j) => {
+      if(cont === 9){
+        princ += 10;
+        cont = 0;
+      }
+      a.push({
+        index: j,
+        source: graph.nodes[princ],
+        target: e,
+        type: relation(graph.nodes[princ].genres, e.genres)
+      });
+      cont +=1;
+      return a;
+    }, []);
+
+
+    function relation(array1, array2){
+      if (array1.length === 0 || array2.length === 0){
+        return 'related';
+      }
+      let conex = '';
+      for (var i = 0; i < array1.length; i++) {
+          for (var j = 0; j < array2.length; j++) {
+            if(array2[j] === array1[i]) {
+              conex = array1[i]
+              break;
+            }
+          }
+          if (conex.length != 0){
+            break;}
+      }
+      if(conex.length === 0){
+        return 'related';
+      }else {
+        return conex;
+      }
+    }
+
+
+
+
 
     const types = d3.set(graph.edges.map(e => e.type)).values();
     color.domain(types);
